@@ -1,0 +1,24 @@
+[
+  {
+    "title": "AR/VR Programming",
+    "imageSrc": "https://ww2.frost.com/wp-content/uploads/2020/10/VR-Healthcare-scaled.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML", "CSS"],
+    "source": "https://github.com/Meetbhatt124/virtualr"
+  },
+  {
+    "title": "Netflix",
+    "imageSrc": "https://iviv.co/wp-content/uploads/2020/04/Netflix-Account-sign.png",
+    "description": "This is a project made to learn the basic concepts of web development.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://github.com/manan132/CSS/blob/master/netflix.html"
+  },
+  {
+    "title": "News Website",
+    "imageSrc": "https://themewagon.com/wp-content/uploads/2020/09/aznews-1.jpg",
+    "description": "This is a clone of login page of google.",
+    "skills": ["HTML", "CSS","React.JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Meetbhatt124/newsapp"
+  }
+]
